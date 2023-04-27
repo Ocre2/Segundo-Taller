@@ -1,12 +1,12 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int vector[2];
+    int vector[100];
     string cedula;
     bool cedula_mala;
     char dia_semana;
 
-    for (int i = 0; i < 2; i++)
+    for (int i = 0; i < 100; i++)
     {
         cedula_mala = true;
 
