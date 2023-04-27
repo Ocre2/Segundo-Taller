@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int n = 5;
+    int n = 50;
     int respuestas[n];
     int sum = 0;
     int promedio;
